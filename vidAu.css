@@ -1,0 +1,14 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+*{
+    background-color: rgba(169, 255, 255, 0.675);
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+}
